@@ -54,11 +54,9 @@ if __name__ == '__main__':
         with open("keyurl.txt", "w") as f:
             for data in urlkeyip:
                 f.write(data + "\n")
-                #f.close()
                 with open("allurl.txt", "w") as ff:
                     for data in urlip:
                         ff.write(data + "\n")
-                        #ff.close()
     end = datetime.datetime.now()
     print(end-start)
 
