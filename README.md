@@ -1,3 +1,3 @@
-# search-public-ip 快速查找域名的IP地址
+# search-public-ip 
 
-快速查找域名的IP地址 一个简单的域名IP查询工具，主要是用https://ip-api.com/ 做解析，目前主要是获取到了IP地址、国家、城市，使用了多线程模式，速度极快，方便在获取域名的时候同时获取IP地址
+just ues api from https://ip-api.com/ 
